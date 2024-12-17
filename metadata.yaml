@@ -1,0 +1,46 @@
+_repo: Markiisitar-de-Pompadour-b-Kuvaus-Ludvig-XVn-rakastajattaresta_74777
+_version: 0.0.1
+alternative_title: Marquise von Pompadour. Finnish
+contributor:
+  translator:
+    agent_name: Seppänen, Rob. A.
+    aliases:
+    - Seppanen, Rob. A.
+    - Seppänen, Robert Arnold
+    - Briha
+    birthdate: 1875
+    deathdate: 1920
+    gutenberg_agent_id: '43205'
+    url: http://www.gutenberg.org/2009/agents/43205
+    wikipedia: https://fi.wikipedia.org/wiki/Rob._A._Seppänen
+creator:
+  author:
+    agent_name: Duncker, Dora
+    aliases:
+    - Dunckerová, Dora
+    - Dunckerova, Dora
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '57640'
+    url: http://www.gutenberg.org/2009/agents/57640
+    wikipedia: https://en.wikipedia.org/wiki/Dora_Duncker
+description: ''
+gutenberg_issued: '2024-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74777'
+language: fi
+pgterms:marc905: 20241022105149duncker
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pompadour, Jeanne Antoinette Poisson, marquise de, 1721-1764 -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Markiisitar de Pompadour : $b Kuvaus Ludvig XV:n rakastajattaresta'
+url: http://www.gutenberg.org/ebooks/74777
