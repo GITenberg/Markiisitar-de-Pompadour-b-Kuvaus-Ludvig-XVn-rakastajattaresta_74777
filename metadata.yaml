@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '43205'
     url: http://www.gutenberg.org/2009/agents/43205
     wikipedia: https://fi.wikipedia.org/wiki/Rob._A._Seppänen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Duncker, Dora
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57640
     wikipedia: https://en.wikipedia.org/wiki/Dora_Duncker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74777#Markiisitar-de-Pompadour-b-Kuvaus-Ludvig-XVn-rakastajattaresta
 gutenberg_issued: '2024-11-22'
 gutenberg_type: Text
 identifiers:
